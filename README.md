@@ -4,4 +4,4 @@ Paste content to C# code from Clipboard .
 
 Sample: 
 
-![Sample](http://files.cnblogs.com/files/gaoshang212/201608151443.gif)
+![Sample](https://raw.githubusercontent.com/gaoshang212/Paster/master/Images/201608151443.gif)
