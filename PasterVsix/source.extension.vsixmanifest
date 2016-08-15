@@ -6,6 +6,7 @@
     <Description xml:space="preserve">Paste content to C# code from Clipboard .</Description>
     <MoreInfo>https://github.com/gaoshang212/Paster</MoreInfo>
     <License>license.txt</License>
+    <Tags>paste,clipboard</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Version="[14.0,15.0)" Id="Microsoft.VisualStudio.Community"/>
