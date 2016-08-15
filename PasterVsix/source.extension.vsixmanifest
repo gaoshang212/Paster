@@ -4,6 +4,7 @@
     <Identity Id="PasterVsix.Gs.1b87307d-47a0-45fb-b0cd-daff0a77130a" Version="0.2.0" Language="en-US" Publisher="Gs" />
     <DisplayName>Paster</DisplayName>
     <Description xml:space="preserve">Paste content to C# code from Clipboard .</Description>
+    <MoreInfo>https://github.com/gaoshang212/Paster</MoreInfo>
     <License>license.txt</License>
   </Metadata>
   <Installation>
